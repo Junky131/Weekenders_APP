@@ -112,8 +112,6 @@ The following flowchart represents the flow of a patient in the Weekenders app. 
 
 ![image](https://user-images.githubusercontent.com/58587500/125458812-25072924-5bc6-46dd-8d0a-476082685acc.png)
 
+The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
 
 ## Code
-
-
-The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.![image](https://user-images.githubusercontent.com/58587500/125458400-3dccdc92-9206-403f-994f-a13c96163eb4.png)
