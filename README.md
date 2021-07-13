@@ -116,3 +116,84 @@ The following flowchart represents the flow of a patient in the Weekenders app. 
 The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
 
 ## Code
+### Flutter
+This is the flutter code for the dashboard screen to illustrate how our app was implemented from the AdobeXD prototype which focuses on the design part to the actual app. The advantage of flutter code is that you can run it on Android as well as iOS and web as well.
+
+### Dashboard
+Implementation of the structure of the dashboard-page. Consisting of five different boxes including different parameters such as sizes and colors (picture below). The code is shown as the example of the dashboard.
+
+1. Header
+2. Date
+3. Menu
+4. FAQ
+5. Feedback
+
+Bildschirmfoto 2021-07-13 um 15.25.53![Bildschirmfoto 2021-07-13 um 15 25 53](https://user-images.githubusercontent.com/58587500/125459798-9ceb0f65-8ecf-4ded-b6db-564c298ae408.png)
+
+### Desing Header
+White box with sideboard -and profile-icon and the text “Hallo Stefan!”:
+
+![image](https://user-images.githubusercontent.com/58587500/125459958-2fdf2bd8-ccfd-4982-91c5-71056da393d4.png)
+
+Setting the size of the header box and the color:
+
+![image](https://user-images.githubusercontent.com/58587500/125459999-78cfe3d1-a04c-49f7-99a4-cf88c9d72223.png)
+
+Creating sidebar icon:
+
+![image](https://user-images.githubusercontent.com/58587500/125460127-1c6564e9-e809-468c-8b85-e373f05ade05.png)
+
+Creating profile (consisting of circle, heda and shoulder):
+
+![image](https://user-images.githubusercontent.com/58587500/125460317-f2712881-08ed-4157-b2ae-e2cf9101aca9.png)
+
+Adding text "Hallo Stefan":
+
+![image](https://user-images.githubusercontent.com/58587500/125460364-7bcfe5be-84bf-465b-bd4c-ece0fd144b4d.png)
+
+### Design Date
+The date selection component consists of the actual selected date with a calendar-icon and the selection of the upcoming days.
+
+![image](https://user-images.githubusercontent.com/58587500/125460422-7277186c-a618-4263-be86-dac451856ad9.png)
+
+Setting the size of the box and the color:
+
+![image](https://user-images.githubusercontent.com/58587500/125460472-83134413-f875-4298-817a-e4c73da94a81.png)
+
+Creating the acutal selected date and the icon:
+
+![image](https://user-images.githubusercontent.com/58587500/125460513-e477fd2e-efc9-4f18-b36c-46cb17322e87.png)
+
+Adding the days and the ticking boxes:
+
+![image](https://user-images.githubusercontent.com/58587500/125460557-877512b7-dffd-415f-a5ec-3c2ed2a158d4.png)
+![image](https://user-images.githubusercontent.com/58587500/125460572-b0e403b6-126c-467d-8a44-f3580d383617.png)
+
+### Menu
+The chosen menu consists of the meals which have been selected for breakfast, lunch and dinner:
+
+![image](https://user-images.githubusercontent.com/58587500/125460628-c93a960c-71d7-4bbf-b617-09f1d7ae4628.png)
+
+Example "Breakfast-Selection"
+
+![image](https://user-images.githubusercontent.com/58587500/125460666-d0640dd8-64ab-435a-947d-5189358982c1.png)
+
+Nutrition Score:
+
+![image](https://user-images.githubusercontent.com/58587500/125460725-1e45f69e-7ed9-48be-a45e-4f671e29fbe6.png)
+
+Meat icon:
+
+![image](https://user-images.githubusercontent.com/58587500/125460755-c8c24174-6c0b-4ab7-9f13-6749da025ef2.png)
+
+### Design FAQ
+
+![image](https://user-images.githubusercontent.com/58587500/125460788-b9933595-222b-40ad-84c8-8acd2457d125.png)
+![image](https://user-images.githubusercontent.com/58587500/125460816-4d4baf67-c905-4161-a011-b8d663a1f6f1.png)
+
+### Design Feedback
+
+![image](https://user-images.githubusercontent.com/58587500/125460882-17b73d88-111e-44c8-bf27-a36f461932b9.png)
+![image](https://user-images.githubusercontent.com/58587500/125460903-3257f61b-fd5d-4d45-9468-1f0e32364be9.png)
+
+
