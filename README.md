@@ -110,7 +110,8 @@ Another feature is the possibility to exclude all the menus, which contain any i
 ### Flowchart
 The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
 
-![image](https://user-images.githubusercontent.com/58587500/125458812-25072924-5bc6-46dd-8d0a-476082685acc.png)
+![Bildschirmfoto 2021-07-13 um 15 21 55](https://user-images.githubusercontent.com/58587500/125459148-7bc10e57-48a2-4e3a-92c9-c947bc44a402.png)
+
 
 The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
 
