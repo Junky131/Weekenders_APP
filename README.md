@@ -128,7 +128,7 @@ Implementation of the structure of the dashboard-page. Consisting of five differ
 4. FAQ
 5. Feedback
 
-Bildschirmfoto 2021-07-13 um 15.25.53![Bildschirmfoto 2021-07-13 um 15 25 53](https://user-images.githubusercontent.com/58587500/125459798-9ceb0f65-8ecf-4ded-b6db-564c298ae408.png)
+![Bildschirmfoto 2021-07-13 um 15 25 53](https://user-images.githubusercontent.com/58587500/125459798-9ceb0f65-8ecf-4ded-b6db-564c298ae408.png)
 
 ### Desing Header
 White box with sideboard -and profile-icon and the text “Hallo Stefan!”:
