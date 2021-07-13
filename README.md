@@ -71,8 +71,7 @@ After the welcome and intro screens, the patient can sign in into the applicatio
 ### User tutorial
 To help the patient with the functionalities of the application, we present a short introduction to the most important features of our prototype. This should further push the patient satisfaction and willingness to use the application during and before the actual stay at the hospital. The patient can always revisit the user tutorial at a later point if some functionalities become unclear.
 
-![image](https://user-images.githubusercontent.com/58587500/125458028-7ccdeb88-d456-4514-a87a-b536e5bdb513.png)
-![image](https://user-images.githubusercontent.com/58587500/125458043-73dc171c-5f29-472b-831b-98d546343d91.png)
+
 
 ### Dashboard
 The dashboard is the beating hearth of our application. From here the patient can reach all the functionalities we provide in the Weekenders App. The dashboard has two different appearances, depending on whether the patient has already ordered food for the day or still has to order breakfast, lunch, and dinner. On the top left the user can open the sidebar menu with further details about the profile and links to the feedback and FAQ. The calendar enables the patient to switch between the days of the hospital stay and lets the patient preorder food for the upcoming days. The patient is also only able to order food for days during his stay. If the patient has not ordered food yet, a time reminder is in the center of the screen is shown. Otherwise, an overview of all the ordered menus is provided. The patient can switch these menus until the deadline of the order process (e.g., until the day before food delivery). The bottom two buttons will bring the patient to the feedback and FAQ section of the application. In general, we decided to use rather big buttons, as most of the patients are between 60 and 85. Therefore, the dashboard must be clearly arranged and simple to understand.
