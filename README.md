@@ -12,7 +12,7 @@ Optional AdobeXD Mobile App
 **Hardware:**
 Optional: iPhone X (the Adobe XD file was optimized for an iPhone X)
 
-### Story
+## Story
 Weekenders App is a software solution, which was developed by students of the Technical University of Munich during the Tech Challenge in the summer semester 2021. Business partner and provider of the challenge was Sana Clinics Munich. As patient food satisfaction is key to the recommendation of the hospital to friends and family Sana Clinics stated the challenge to develop a scalable, cost-efficient and patient centric hospital catering process. 
 
 ### What is the Weekenders App?
@@ -63,4 +63,50 @@ We first welcome our patient and give a short explanation of the core functional
 
 ![image](https://user-images.githubusercontent.com/58587500/125457606-6a6a79aa-f3de-4c2f-ba04-ff10c188b12e.png)
 
+### Sign in and Registration
+After the welcome and intro screens, the patient can sign in into the application. Here we implemented one of our unique selling propositions (USP) features compared to other solutions. As the hospital has a lot of information about the patient (e.g., allergies, duration of stay, etc.), the patient will be provided by the hospital staff with a QR code or activation code, which contains all this information. As a result, the patient only needs to scan or type in the activation code to have all the relevant information in the systems. Of course, it is still possible to alter information for the patient, if needed.
 
+![image](https://user-images.githubusercontent.com/58587500/125457872-f6a98f13-6a75-429a-8e49-a0e7fce01c3f.png)
+
+### User tutorial
+To help the patient with the functionalities of the application, we present a short introduction to the most important features of our prototype. This should further push the patient satisfaction and willingness to use the application during and before the actual stay at the hospital. The patient can always revisit the user tutorial at a later point if some functionalities become unclear.
+
+![image](https://user-images.githubusercontent.com/58587500/125458028-7ccdeb88-d456-4514-a87a-b536e5bdb513.png)
+![image](https://user-images.githubusercontent.com/58587500/125458043-73dc171c-5f29-472b-831b-98d546343d91.png)
+
+
+### Dashboard
+The dashboard is the beating hearth of our application. From here the patient can reach all the functionalities we provide in the Weekenders App. The dashboard has two different appearances, depending on whether the patient has already ordered food for the day or still has to order breakfast, lunch, and dinner. On the top left the user can open the sidebar menu with further details about the profile and links to the feedback and FAQ. The calendar enables the patient to switch between the days of the hospital stay and lets the patient preorder food for the upcoming days. The patient is also only able to order food for days during his stay. If the patient has not ordered food yet, a time reminder is in the center of the screen is shown. Otherwise, an overview of all the ordered menus is provided. The patient can switch these menus until the deadline of the order process (e.g., until the day before food delivery). The bottom two buttons will bring the patient to the feedback and FAQ section of the application. In general, we decided to use rather big buttons, as most of the patients are between 60 and 85. Therefore, the dashboard must be clearly arranged and simple to understand.
+
+![image](https://user-images.githubusercontent.com/58587500/125458076-786a2618-e37c-44c3-b6f5-d78baa6ffa11.png)
+
+### Sidebar
+The sidebar provides similar options as the dashboard, but in a more comprehensive way. Additionally, the patient can edit the user profile.
+
+![image](https://user-images.githubusercontent.com/58587500/125458141-9598d0f4-6495-4eb9-afa7-6ff7cc51f69f.png)
+
+### Menu selection
+The menu selection is the core feature of the Weekender app. The patient can order breakfast, lunch, and dinner. Furthermore, it is possible to order additional components to each meal ranging from drinks to soup and dessert. The patient is always guided through all three meals in one go. For a faster indication of the healthiness of each meal we implemented a nutrient score next to each menu and additional component. When the patient wants additional information about the ingredients of a meal it is possible to click on the info icon next to each menu and a new screen with a transparent presentation of ingredients and allergens will appear. At the end of the menu selection, the patient sees an overview of all the menu selections to further decrease the number of wrongly ordered food.
+
+![image](https://user-images.githubusercontent.com/58587500/125458213-65aef09d-f7ae-405d-b852-3a3a5a52eae0.png)
+![image](https://user-images.githubusercontent.com/58587500/125458224-88f00e2d-7c94-406a-af06-cd9a31e8b2e0.png)
+![image](https://user-images.githubusercontent.com/58587500/125458237-6aa5432b-ca11-4661-b552-a0277d423da0.png)
+
+### FAQ and Feedback
+To provide additional transparency to our patient and further improve the food ordering process by receiving feedback from the patients, we included a feedback and a FAQ section into the application. In the feedback section the patient can choose between 1 and 5 stars and provide additional comments to the food ordering process. We deployed a section for frequently asked questions (FAQs) to give answers to the most urgent problems of the patients. Additionally, a link to the user tutorial is provided. Both, the feedback and the FAQ section, will guide the patient back to the dashboard after completion.
+
+![image](https://user-images.githubusercontent.com/58587500/125458319-9e401d50-4f16-4970-852e-ac8de30ddcd5.png)
+
+### Further functions
+The more patients use the application, the more the service stuff is relieved. Therefore, we implemented a notification function to remind patients to order their food for the day. 
+Another feature is the possibility to exclude all the menus, which contain any ingredients the patient is allergic to. As we have all the relevant patient data due to the QR Code, we know which meals are suitable for each patient and can individualize the offer for each patient during the hospital stay.
+
+### Flowchart
+The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
+
+![image](https://user-images.githubusercontent.com/58587500/125458415-b1b2ea02-417a-4ea1-97c4-d9b7ebbd25a3.png)
+
+## Code
+
+
+The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.![image](https://user-images.githubusercontent.com/58587500/125458400-3dccdc92-9206-403f-994f-a13c96163eb4.png)
