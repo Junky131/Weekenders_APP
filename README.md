@@ -71,6 +71,10 @@ After the welcome and intro screens, the patient can sign in into the applicatio
 ### User tutorial
 To help the patient with the functionalities of the application, we present a short introduction to the most important features of our prototype. This should further push the patient satisfaction and willingness to use the application during and before the actual stay at the hospital. The patient can always revisit the user tutorial at a later point if some functionalities become unclear.
 
+![image](https://user-images.githubusercontent.com/58587500/125458859-19f6a7d2-171d-4d44-a852-9e2ffecbd51a.png)
+
+![image](https://user-images.githubusercontent.com/58587500/125458872-2b9339e5-dc1a-4377-a51f-a72446a2c4a9.png)
+
 
 
 ### Dashboard
@@ -100,10 +104,14 @@ To provide additional transparency to our patient and further improve the food o
 The more patients use the application, the more the service stuff is relieved. Therefore, we implemented a notification function to remind patients to order their food for the day. 
 Another feature is the possibility to exclude all the menus, which contain any ingredients the patient is allergic to. As we have all the relevant patient data due to the QR Code, we know which meals are suitable for each patient and can individualize the offer for each patient during the hospital stay.
 
+![image](https://user-images.githubusercontent.com/58587500/125458783-7ed6c1d0-afef-42c0-84e4-16ed98f68c19.png)
+
+
 ### Flowchart
 The following flowchart represents the flow of a patient in the Weekenders app. After the welcome and registration, the patient can navigate from the dashboard to every available function. Keep in mind that a box is not always equal to a single screen but represents the predefined working path of our users.
 
-![image](https://user-images.githubusercontent.com/58587500/125458415-b1b2ea02-417a-4ea1-97c4-d9b7ebbd25a3.png)
+![image](https://user-images.githubusercontent.com/58587500/125458812-25072924-5bc6-46dd-8d0a-476082685acc.png)
+
 
 ## Code
 
