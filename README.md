@@ -59,7 +59,7 @@ Moving forward we are going to give a short description of each screen concept. 
 It is important to mention that we connected the screens with the prototype function of Adobe XD. This allows us to simulate a normal app flow for our testers. We will not mention every single connection between screens, but will provide a flowchart and the link to the Adobe XD file of our prototype to help understand the connections between all the options our application provides.
 
 ### Welcome and Intro
-We first welcome our patient and give a short explanation of the core functionality and features of the application. The patient can click through each screen or skip the intro and directly start with the sign-in and registration process.![image](https://user-images.githubusercontent.com/58587500/125457577-e734c8f1-a42c-46a6-a951-0c02896f3aa5.png)
+We first welcome our patient and give a short explanation of the core functionality and features of the application. The patient can click through each screen or skip the intro and directly start with the sign-in and registration process.
 
 ![image](https://user-images.githubusercontent.com/58587500/125457606-6a6a79aa-f3de-4c2f-ba04-ff10c188b12e.png)
 
