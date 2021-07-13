@@ -42,4 +42,25 @@ Taking orders from patients is a time consuming and error-prone process. Languag
 *For hospitals:*
 Hospitals are enabled to decrease the amount of thrown away food, as patients only order menus they intend to eat. Furthermore, an improved food experience will lead to increased patient satisfaction. Hospital staff is relived and it is possible to achieve cost savings by reducing the number of FTEs needed for the food ordering process. 
 
+## Build:
+### Preparation:
+How to recreate the Weekenders App:
+When we started to build our prototype, we kept the end user, i.e. the patient, in the center of the process. Therefore, we highly recommend using an additional hardware device (e.g., an iPhone X) to simulate the patients experience with the Adobe XD prototype while using the application. 
+The first step towards our finished prototype were sketches, which helped us define the key features of the application and a rough overview of the patient’s user journey within the app.
+
+![Bildschirmfoto 2021-07-13 um 15 10 00](https://user-images.githubusercontent.com/58587500/125457372-6b8dd4b0-1e3f-4eec-822e-9725f94ea059.png)
+
+To develop a functional prototype from our sketches in a fast and reliant way we used the software Adobe XD. 
+In the following a complete overview of the Weekenders App is given. The high number of screens are a result of the attempt to better simulate the normal user flow of a patient to validate the product idea.
+
+![image](https://user-images.githubusercontent.com/58587500/125457490-bb6f0aaf-d785-48e5-ae24-20e5a55edfd2.png)
+
+Moving forward we are going to give a short description of each screen concept. As mentioned above, we implemented the same screens in different settings, but explaining every single screen will not provide further inside into our prototype. 
+It is important to mention that we connected the screens with the prototype function of Adobe XD. This allows us to simulate a normal app flow for our testers. We will not mention every single connection between screens, but will provide a flowchart and the link to the Adobe XD file of our prototype to help understand the connections between all the options our application provides.
+
+### Welcome and Intro
+We first welcome our patient and give a short explanation of the core functionality and features of the application. The patient can click through each screen or skip the intro and directly start with the sign-in and registration process.![image](https://user-images.githubusercontent.com/58587500/125457577-e734c8f1-a42c-46a6-a951-0c02896f3aa5.png)
+
+![image](https://user-images.githubusercontent.com/58587500/125457606-6a6a79aa-f3de-4c2f-ba04-ff10c188b12e.png)
+
 
